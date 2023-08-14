@@ -1,7 +1,8 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Clima ☁
+
+![WhatsApp Image 2023-08-14 at 21 05 55](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/d077173d-e926-49a1-a03a-bb912209d0d2)
+![WhatsApp Image 2023-08-14 at 21 05 54](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/551638d9-f567-4ba4-882e-afb8a868ca87)
+
 
 ## Our Goal
 
