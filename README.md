@@ -12,7 +12,7 @@ The objective of this tutorial is to learn about asynchronous programming in Dar
 
 We’re going to make a weather app. We'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
-## What you will learn
+## What we will learn
 
 - How to use Dart to perform asynchronous tasks.
 - Understand async and await.
