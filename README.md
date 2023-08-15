@@ -1,7 +1,8 @@
 # Clima ☁
-
-![WhatsApp Image 2023-08-14 at 21 05 55](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/d077173d-e926-49a1-a03a-bb912209d0d2)
-![WhatsApp Image 2023-08-14 at 21 05 54](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/551638d9-f567-4ba4-882e-afb8a868ca87)
+We input the name of the place.
+![Screenshot 2023-08-15 153150](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/8fbe0de9-22e5-46de-8918-d12f32f36919)
+We get the weather of the place.
+![Screenshot 2023-08-15 153204](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/68e7347f-1087-441f-bf77-6c4f60e3bbda)
 
 
 ## Our Goal
