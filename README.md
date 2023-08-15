@@ -1,11 +1,6 @@
 # Clima ☁
-We input the name of the place.
 
-![Screenshot 2023-08-15 153150](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/8fbe0de9-22e5-46de-8918-d12f32f36919)
-
-We get the weather of the place.
-
-![Screenshot 2023-08-15 153204](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/68e7347f-1087-441f-bf77-6c4f60e3bbda)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
 
 ## Our Goal
@@ -16,8 +11,6 @@ The objective of this tutorial is to learn about asynchronous programming in Dar
 ## What you will create
 
 We’re going to make a weather app. We'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
 ## What you will learn
 
@@ -32,3 +25,13 @@ We’re going to make a weather app. We'll be able to find out the live weather 
 - Learn about the lifecycle of Stateful Widgets and how to override them.
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
+
+## Input/Output
+
+We input the name of the place.
+
+![Screenshot 2023-08-15 153150](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/8fbe0de9-22e5-46de-8918-d12f32f36919)
+
+We get the weather of the place.
+
+![Screenshot 2023-08-15 153204](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/68e7347f-1087-441f-bf77-6c4f60e3bbda)
