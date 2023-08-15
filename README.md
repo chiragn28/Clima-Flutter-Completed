@@ -1,7 +1,10 @@
 # Clima ☁
 We input the name of the place.
+
 ![Screenshot 2023-08-15 153150](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/8fbe0de9-22e5-46de-8918-d12f32f36919)
+
 We get the weather of the place.
+
 ![Screenshot 2023-08-15 153204](https://github.com/Chirag1969/Clima-Flutter-Completed/assets/72310140/68e7347f-1087-441f-bf77-6c4f60e3bbda)
 
 
